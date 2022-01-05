@@ -1,5 +1,7 @@
-# Customize Your terminal to Cool design!!!!!\nlike a ParrotOS Oh yeah!!!!!!
-# what? don't you like parrot?? get the f&%k out!!!!!!!!!!!!!!!!!!!!!!!!!!!\njust watch the youtube!!!!!!!!!!!!!!
+# Customize Your terminal to Cool design!!!!!
+# like a ParrotOS Oh yeah!!!!!!
+# what? don't you like parrot?? get the f&%k out!!!!!!!!!!!!!!!!!!!!!!!!!!!
+# just watch the youtube!!!!!!!!!!!!!!
 
 
 # add the below line to ~/.bashrc
