@@ -41,5 +41,7 @@ else
     PS1='[\u@\h]─[\w]>\$ '
 fi
 
+#PS1='\n\[${CYAN}\]${debian_chroot:+($debian_chroot)}\u\[${RESET}${BOLD}\] \[${RED}\]>>\[${GREEN}\]> \[${CYAN}\]\w\[${RESET}\]$(__git_ps1 " (\[${MAGENTA}\]%s\[${RESET}\])")\n\[${BOLD}\]\$\[${RESET}\] '
+
 
 export PS1
