@@ -1,14 +1,10 @@
-   #Install
+   Install
     
-    ```
-    pip install --user powerline-shell
-    ```
+    ```pip install --user powerline-shell```
     
-   #Uninstall 
+   Uninstall 
     
-    ```
-    pip uninstall --user powerline-shell
-    ```
+    ```pip uninstall --user powerline-shell```
     
    Config in bash to "~/.bashrc"
    
