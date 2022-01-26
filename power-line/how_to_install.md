@@ -1,10 +1,10 @@
-    Install
+   #Install
     
     ```
     pip install --user powerline-shell
     ```
     
-    Uninstall 
+   #Uninstall 
     
     ```
     pip uninstall --user powerline-shell
